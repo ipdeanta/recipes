@@ -1,0 +1,9 @@
+Ingredients:
+  - Un cacho de pan
+  - Un tomate
+
+Directions:
+  1. Cogemos un cacho de pan
+  2. Cogemos un tomate
+  3. ???
+  4. Profit!
